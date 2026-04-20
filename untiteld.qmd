@@ -3,3 +3,9 @@
 this is for setting and blah
 
 # 2nd comment
+this is some new text 
+
+```{r}
+x = c("cat", "dog")
+```
+
